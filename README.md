@@ -3,7 +3,7 @@
 Simple app that generates a vector of random numbers of controllable length, and displays a histogram for the numbers.
 
 ## Installation
-
+   
 Clone the repository and install the dependencies:
 
 First `cd` into the project directory then run:
