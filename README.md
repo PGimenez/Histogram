@@ -1,5 +1,5 @@
  ## Histogram demo 
-
+  
 Simple app that generates a vector of random numbers of controllable length, and displays a histogram for the numbers.
 
 ## Installation
