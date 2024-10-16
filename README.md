@@ -19,7 +19,7 @@ $> julia --project
 ```
 
 ```julia
-julia> using GenieFramework
+julia> using GenieFramework 
 julia> Genie.loadapp() # load app
 julia> up() # start server
 ```
